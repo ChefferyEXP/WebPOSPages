@@ -108150,7 +108150,7 @@ m(){var s=this.Q
 s===$&&A.a()
 s.aQ(0)
 this.az()},
-au8(){var s,r=A.d3(u.o,0,null).nK(0,A.ab(["appId","REPLACE_WITH_SQUARE_APP_ID","locationId","REPLACE_WITH_SQUARE_LOCATION_ID","env","sandbox"],t.N,t.z)).gox()
+au8(){var s,r=A.d3(u.o,0,null).nK(0,A.ab(["appId","sandbox-sq0idb-lJyRN3V9f8Ap9L1tPafGGQ","locationId","L7KDYV6AED4P5","env","sandbox"],t.N,t.z)).gox()
 $.aXu()
 s=this.z
 s===$&&A.a()
